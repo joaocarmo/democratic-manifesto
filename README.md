@@ -11,7 +11,7 @@ Access the manifesto [here].
 
 The site is automatically deployed using GitHub Pages. Any changes pushed to the `main` branch will trigger a redeployment.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE] file for details.
 

@@ -12,6 +12,8 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
+  background: #f9f9f9;
+  color: #212121;
 }
 
 h1,
@@ -33,4 +35,11 @@ footer {
   max-width: 80ch;
   margin: 0 auto;
   text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #1e1e1e;
+    color: #cccccc;
+  }
 }

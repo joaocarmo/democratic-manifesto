@@ -36,4 +36,4 @@ improvement. Without proactive measures, we risk perpetuating a cycle where
 periods of enlightenment are followed by regression into authoritarianism.
 
 We must not let ourselves believe that we've nailed democracy and that we can
-no longer make it better – even if better is not obvious at first.
+no longer make it better; even if better is not obvious at first.

@@ -1,7 +1,10 @@
-*, *::before, *::after {
+html {
   box-sizing: border-box;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 body {
   font-family: "Merriweather", serif;
   font-size: 16px;
